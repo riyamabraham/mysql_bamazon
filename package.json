@@ -1,0 +1,23 @@
+{
+  "name": "mysql_bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyamabraham/mysql_bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riyamabraham/mysql_bamazon/issues"
+  },
+  "homepage": "https://github.com/riyamabraham/mysql_bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.0.0",
+    "mysql": "^2.15.0"
+  }
+}
